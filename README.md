@@ -1,2 +1,7 @@
-# DTR-Health-Indexing
-Health Indexing of Distribution Transformers using Random Forest Regression
+# Health Indexing of Distribution Transformers (DTRs) using Random Forest Regression
+This project is a small attempt to contribute to the limited resources available for the health indexing of DTRs using Machine Learning, which has not been explored enough, despite its utmost significance. The term “Health Indexing” refers to the process of assessing and quantifying the condition of any machine (in this case, of transformers) to determine their state of being. It is a significant step for any utility towards better asset management, enhancing reliability and ensuring service continuity through adverse situations. 
+Machine Learning-based algorithms for Health Indexing have the ability to capture non-linear relationships in a huge, complex dataset with higher accuracy than conventional statistical algorithms. 
+
+When it comes to health indexing, DTRs have been largely shunned by the research community, with the entire spotlight concentrated on large MVA power transformers, as they are less numerous than DTRs and constitute a higher capital and operational expenditure. So, their parameters are continuously monitored remotely using costly IoT sensors for preventive and predictive maintenance, which is difficult to adopt in case of DTRs due to their huge number scattered across different areas, inadequate manpower to handle them and lack of sufficient data (since they're usually not monitored like Power Transformers, due to the aforementioned reasons). But slowly, Health Indexing of DTRs is gaining traction in utilities and research.
+
+
